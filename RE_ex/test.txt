@@ -1,0 +1,8 @@
+DMADMB DMCDMD PMOD1PMOD122
+line2 DMA
+line3 DMB
+line4 DMC
+line5 PMOD1
+line6 PMOD2
+line7 PMOD3
+
